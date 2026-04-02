@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Mohana 👋
 
-<!--
-**mohana-1810/mohana-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Currently learning: Java, Data Structures & Algorithms  
+🔐 Exploring: Cybersecurity  
+🌐 Curious about: Web Development  
 
-Here are some ideas to get you started:
+## 🧠 What I'm Doing
+- I enjoy solving problems using DSA  
+- Currently building my foundation in programming  
+- Exploring different tech fields to find my niche  
+- Open to learning, collaborations, and hackathons 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Stuff
+- Java  
+- Data Structures & Algorithms  
+- Learning: Cybersecurity & Web Dev
+
+## 🎯 Current Goal
+Not to be confused 24/7 and actually build something cool
+
+## 📌 Future Plans
+- Build projects  
+- Participate in hackathons  
+- Figure out what I actually love  
+
+✨ *“Still exploring, still learning.”*
